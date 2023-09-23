@@ -1,0 +1,7 @@
+* {
+  font-family: "Inter", sans-serif;
+  color: var(--text-color);
+  padding: 0px;
+  margin: 0px;
+  padding-top: border-box;
+}
